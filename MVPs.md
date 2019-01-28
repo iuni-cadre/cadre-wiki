@@ -1,10 +1,14 @@
-## 1
+## ~~1~~
 
-Login button that forwards you to CI login to log in. Callback displays the institution or username you logged in with
+~~Login button that forwards you to CI login to log in. Callback displays the institution or username you logged in with~~
+
+~~Logging in for the first time captures user info into a database.~~
 
 ## 2
 
-Logging in for the first time captures user info into a database. Callback page displays the number of times you've logged in.
+Can login via Microsoft.  
+
+Callback page displays the number of times you've logged in.
 
 Meta Database server set up (for authentication database, and RAC meta database, for example). Is accessible from within cadre server network.
 
@@ -15,6 +19,9 @@ Data API running on a server. Accessable to outside. One "Status" endpoint that 
 Interface compiles and hosted on web server with "Hello World" type page. Includes Flask Microservice.
 
 ## 3
+
+Can login via Google.
+
 Logging in creates tokens that can be validated by APIs. Callback page returns the token created.
 
 Data API accepts and validates authentication token.
@@ -22,6 +29,9 @@ Data API accepts and validates authentication token.
 Interface connects to authentication API to validate token and consume DataAPI status endpoint
 
 ## 4
+
+Can login via Facebook.
+
 Login callback page forwards to the "internal" user interface if successfully logged in. Sends token with redirect. URL of interface should be configurable.
 
 Data API can connect to a database. Status endpoint returns info on the database it's connected to.
