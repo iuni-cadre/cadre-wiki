@@ -48,6 +48,8 @@ Data API has a method for choosing which database the query will be run against 
 
 MAG Data available as relational database to Data API.
 
+Benchmark existing WoS to new WoS.
+
 Finalized version of 3rd version of schema.
 
 ## 5
