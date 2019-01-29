@@ -18,11 +18,15 @@ Data API running on a server. Accessable to outside. One "Status" endpoint that 
 
 Interface compiles and hosted on web server with "Hello World" type page. Includes Flask Microservice.
 
+Version 1 of WoS & MAG on new server.  Accessible by all.
+
 
 
 ## 3
 
 Can login via Google.
+
+User Registration/profiles (post CI Login).
 
 Logging in creates tokens that can be validated by APIs. Callback page returns the token created.
 
@@ -44,10 +48,14 @@ Data API has a method for choosing which database the query will be run against 
 
 MAG Data available as relational database to Data API.
 
+Finalized version of 3rd version of schema.
+
 ## 5
 Data API has endpoint that consumes GraphQL. Can return article data based on article ID.
 
 Interface has a textbox that one can send a graphql request with an article ID to data api. Response is output in plain text.
+
+XML parser can parse 1 xml file.
 
 ## 6
 Interface can generate more complex queries.
@@ -55,6 +63,8 @@ Interface can generate more complex queries.
 Data API can handle more complex queries, including text search
 
 Interface displays response in a visually appealing format.
+
+XML parser can run on Carbonate.
 
 ## 7
 RAC Database is set up, configured, and can be accessed from web server
