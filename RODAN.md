@@ -18,6 +18,8 @@ Data API running on a server. Accessable to outside. One "Status" endpoint that 
 
 Interface compiles and hosted on web server with "Hello World" type page. Includes Flask Microservice.
 
+
+
 ## 3
 
 Can login via Google.
@@ -27,6 +29,8 @@ Logging in creates tokens that can be validated by APIs. Callback page returns t
 Data API accepts and validates authentication token.
 
 Interface connects to authentication API to validate token and consume DataAPI status endpoint
+
+First draft of 3rd version WoS/MAG Schema - Something ready to show RDC for feedback.
 
 ## 4
 
