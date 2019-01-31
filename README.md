@@ -13,3 +13,13 @@ Only to be used for WIKI
 ### Facebook
  * app_id : 2304403526461962
  * secret : 1e1f964af99acd3b68a9e4280c5e9a4c
+ 
+### Microsoft
+ * app_id : 5d02ef23-d9d0-4623-b7b5-e56cdb79d8a1
+ * application secret : bilbHZ82#@$%ecfOPFPK168
+ 
+To login into the developer accounts for facebook, google and microsoft please use the following username and password:
+ * username : cadreit@iu.edu
+ * application secret : LIBRARYS3cr3t!!!
+ 
+ 
