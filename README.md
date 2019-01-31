@@ -20,6 +20,6 @@ Only to be used for WIKI
  
 To login into the developer accounts for facebook, google and microsoft please use the following username and password:
  * username : cadreit@iu.edu
- * application secret : LIBRARYS3cr3t!!!
+ * password : **********
  
  
