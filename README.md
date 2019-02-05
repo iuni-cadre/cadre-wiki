@@ -18,7 +18,11 @@ Only to be used for WIKI
  * app_id : 5d02ef23-d9d0-4623-b7b5-e56cdb79d8a1
  * application secret : bilbHZ82#@$%ecfOPFPK168
  
-To login into the developer accounts for facebook, google and microsoft please use the following username and password:
+ ### Twitter
+ * API key : 4yyqhhnUUxpLnZJRtHFtDL4cz
+ * API secret key : S2zaNWNcUVvYy9Outi12gl3oddNjgfD2FFkEZCVvfa9weqLZVX
+ 
+To login into the developer accounts for facebook, google, twitter and microsoft please use the following username and password:
  * username : cadreit@iu.edu
  * password : **********
  
